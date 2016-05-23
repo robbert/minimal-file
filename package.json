@@ -1,0 +1,20 @@
+{
+	"name": "minimal-file",
+	"version": "1.0.0",
+	"description": "Smallest possible syntactically valid files of different types",
+	"homepage": "https://github.com/mathiasbynens/small",
+	"keywords": [
+		"minimal",
+		"file"
+	],
+	"license": "CC0",
+	"author": {
+		"name": "Mathias Bynens",
+		"url": "https://mathiasbynens.be/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mathiasbynens/small.git"
+	},
+	"bugs": "https://github.com/mathiasbynens/small/issues"
+}
